@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1>Engineer Oswaldo Mauricio May Canul</h1>
+<h2>DevOps</h2>
 
-<!--
-**MauricioMC28/MauricioMC28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
+- I am 26 years old and from Cancun, QROO, Mexico
+- I have a Bachelor's Degree in Network Engineering
+- Self-taught person and professional in my job.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Technologies
+    ![Ansible](https://img.shields.io/badge/-Ansible-333333?style=flat&logo=ansible)
+    ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
+    ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+    ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
+    ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
+    ![GitLab]
+    ![Grafana]
+    ![Debian 12]
+    ![Pipelines CI/CD]
+    ![CircleCI]
