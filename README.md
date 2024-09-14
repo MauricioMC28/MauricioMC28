@@ -21,3 +21,4 @@
 
 ### Contact Me
 <a href="https://www.linkedin.com/in/mauricio-may28/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mauricio_May-blue?style=flat-square&logo=linkedin"></a>
+<a href="mauriciio2a@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-mauriciio2a@gmail.com-blue?style=flat-square&logo=gmail"></a>
