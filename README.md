@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/logo2.2.png" align="center" height="100"></img>
+  <img src="https://avatars.githubusercontent.com/u/43622268?s=400&u=604c2c8e5db1ab741804b1457886f0342232da92&v=4" align="center" height="100"></img>
 </p>
 <h1 align="center">Oswaldo Mauricio May Canul</h1>
 <h3 align="center">DevOps Developer</h3>
