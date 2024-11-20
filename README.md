@@ -5,13 +5,11 @@
 <h3 align="center">DevOps Developer</h3>
 
 <p align="center">
-  Passion for DevOps
-
-  ![Static Badge](https://img.shields.io/badge/-mauricio--may28-white?style=social&logo=linkedin&logoColor=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmauricio-may28%3Ftrk%3Dcontact-info)
-  ![Static Badge](https://img.shields.io/badge/-mauriciomaycanul-white?style=social&logo=gravatar&logoColor=blue&link=https%3A%2F%2Fgravatar.com%2Fmauriciomaycanul)
-  ![Static Badge](https://img.shields.io/badge/e--mail-mauriciio2a%40gmail.com-white?style=social&logo=maildotru&logoColor=red)
-
+  <a href="https://www.linkedin.com/in/mauricio-may28"><img src="https://img.shields.io/badge/-white?style=flat-square&logo=linkedin&logoColor=blue"></a>
+  <a href="https://gravatar.com/mauriciomaycanul"><img src="https://img.shields.io/badge/-white?style=flat-square&logo=gravatar&logoColor=blue"></a>
+  <a href="mailto:mauriciio2a@gmail.com"><img src="https://img.shields.io/badge/-white?style=flat-square&logo=gmail&logoColor=red"></a>
 </p>
+
 
 ## Education
 
