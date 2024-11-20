@@ -5,9 +5,9 @@
 <h3 align="center">DevOps Developer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mauricio-may28"><img src="https://img.shields.io/badge/-white?style=flat-square&logo=linkedin&logoColor=blue"></a>
-  <a href="https://gravatar.com/mauriciomaycanul"><img src="https://img.shields.io/badge/-white?style=flat-square&logo=gravatar&logoColor=blue"></a>
-  <a href="mailto:mauriciio2a@gmail.com"><img src="https://img.shields.io/badge/-white?style=flat-square&logo=gmail&logoColor=red"></a>
+  <a href="https://www.linkedin.com/in/mauricio-may28"><img src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=linkedin&logoColor=blue"></a>
+  <a href="https://gravatar.com/mauriciomaycanul"><img src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=gravatar&logoColor=blue"></a>
+  <a href="mailto:mauriciio2a@gmail.com"><img src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=gmail&logoColor=red"></a>
 </p>
 
 
