@@ -1,10 +1,19 @@
-<h1>Engineer Oswaldo Mauricio May Canul</h1>
-<h2>DevOps</h2>
+<h1 align="center">Oswaldo Mauricio May Canul</h1>
+<h3 align="center">DevOps Developer</h3>
 
-### About Me
-- I am 26 years old and from Cancun, QROO, Mexico
-- I have a Bachelor's Degree in Network Engineering
-- Self-taught person and professional in my job.
+<p align="center"> </p>
+
+## Education
+
+|   Universidad Autónoma de Quintana Roo        |                                    |
+|:---------------------------------------------:|-----------------------------------:|
+|   Bachelor's degree in Networking Engineer    | *September 2016 - March 2022*      |                         
+
+## Technical skills
+
+## Experience
+
+## Projects
 
 ### Technologies
 ![Amazon Web Services](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonwebservices)
