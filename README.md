@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-  <h2>Education 🏫</h2>
+  <h2>Education 🎓</h2>
   <b>Universidad Autónoma de Quintana Roo</b><br>
   <i>Bachelor's degree in Networking Engineer&emsp;September 2016 - March 2022</i>
 </div>
