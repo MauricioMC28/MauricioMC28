@@ -1,12 +1,12 @@
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/43622268?s=400&u=604c2c8e5db1ab741804b1457886f0342232da92&v=4" align="center" height="100"></img>
 </p>
-<div align="center">
-  <h1>Oswaldo Mauricio May Canul 👨🏽‍💻<br>DevOps Engineer</h1>
-</div>
+
+<h1 align="center">Oswaldo Mauricio May Canul 👨🏽‍💻<br>DevOps Engineer ✨</h1>
+
 
 <div align="center">
-  <h3>Contact me</h3>
+  <h3>Contact me ✉️</h3>
   <a href="https://www.linkedin.com/in/mauricio-may28"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
   <a href="https://gravatar.com/mauriciomaycanul"><img src="https://img.shields.io/badge/Gravatar-1E8CBE?style=flat&logo=gravatar&logoColor=white"></a>
   <a href="mailto:mauriciio2a@gmail.com"><img src="https://img.shields.io/badge/E--mail-red?style=flat&logo=gmail&logoColor=white"></a>
@@ -14,13 +14,13 @@
   <a href="https://x.com/MayCloud_mx"><img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white"></a>
 </div>
 
+<h3 align="center">Education 🎓</h3>
 <div align="center">
-  <h2>Education 🎓</h2>
   <b>Universidad Autónoma de Quintana Roo</b><br>
   <i>Bachelor's degree in Networking Engineer&emsp;September 2016 - March 2022</i>
 </div>
 <div align="center">
-<h2>Technical skills ⚙️</h2>
+<h3>Technical skills ⚙️</h3>
 <b>Languages:</b><br>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
