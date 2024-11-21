@@ -1,8 +1,10 @@
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/43622268?s=400&u=604c2c8e5db1ab741804b1457886f0342232da92&v=4" align="center" height="100"></img>
 </p>
-<h1 align="center">Oswaldo Mauricio May Canul</h1>
-<h3 align="center">DevOps Developer</h3>
+<div align="center">
+  <h1>Oswaldo Mauricio May Canul</h1>
+  <h4 align="left">DevOps Developer 🧑‍💻</h4>
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mauricio-may28"><img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=flat-square&logo=linkedin&logoColor=blue"></a>
@@ -11,11 +13,10 @@
 </p>
 
 
-## Education
+## Education 🏫
 
-|   Universidad Autónoma de Quintana Roo        |                                    |
-|:---------------------------------------------:|-----------------------------------:|
-|   Bachelor's degree in Networking Engineer    | *September 2016 - March 2022*      |                         
+- Universidad Autónoma de Quintana Roo
+Bachelor's degree in Networking Engineer September 2016 - March 2022*
 
 ## Technical skills
 
