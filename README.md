@@ -2,8 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/43622268?s=400&u=604c2c8e5db1ab741804b1457886f0342232da92&v=4" align="center" height="100"></img>
 </p>
 <div align="center">
-  <h1>Oswaldo Mauricio May Canul</h1>
-  <h4 align="left">DevOps Developer 🧑‍💻</h4>
+  <h1>Oswaldo Mauricio May Canul <br>< align="left" DevOps Developer/>👨🏽‍💻</h1>
 </div>
 
 <p align="center">
