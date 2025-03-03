@@ -4,9 +4,9 @@
 
 <h1 align="center">Oswaldo Mauricio May Canul 👨🏽‍💻<br>DevOps Engineer ✨</h1>
 
-
+<p align='center'>Apasionado por la tecnología y videojuegos</p>
 <div align="center">
-  <h3>Contact me ✉️</h3>
+  <h3>Contactame ✉️</h3>
   <a href="https://www.linkedin.com/in/mauricio-may28"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
   <a href="https://gravatar.com/mauriciomaycanul"><img src="https://img.shields.io/badge/Gravatar-1E8CBE?style=flat&logo=gravatar&logoColor=white"></a>
   <a href="mailto:mauriciio2a@gmail.com"><img src="https://img.shields.io/badge/E--mail-red?style=flat&logo=gmail&logoColor=white"></a>
@@ -14,10 +14,10 @@
   <a href="https://x.com/MayCloud_mx"><img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white"></a>
 </div>
 
-<h3 align="center">Education 🎓</h3>
+<h3 align="center">Educación 🎓</h3>
 <div align="center">
-  <b>Universidad Autónoma de Quintana Roo</b><br>
-  <i>Bachelor's degree in Networking Engineer&emsp;September 2016 - March 2022</i>
+  <b>Universidad Autónoma del Estado de Quintana Roo</b><br>
+  <i>Ingeniero en Redes&emsp;Septiembre de 2016 - Febrero 2024</i>
 </div>
 <div align="center">
 <h3>Technical skills ⚙️</h3>
