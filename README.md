@@ -4,7 +4,7 @@
 
 <h1 align="center">Oswaldo Mauricio May Canul 👨🏽‍💻<br>DevOps Engineer ✨</h1>
 
-<p align='center'>Apasionado por la tecnología y videojuegos</p>
+<p align='center'>Apasionado por la tecnología y videojuegos <br> <a href="https://drive.google.com/file/d/1XJ5b7g4TEJXw5tjWDOLsMXLnNkpa5ADr/view?usp=sharing">Visita mi CV/Resume</a></p>
 <div align="center">
   <h3>Contactame ✉️</h3>
   <a href="https://www.linkedin.com/in/mauricio-may28"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
